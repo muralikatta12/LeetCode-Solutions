@@ -13,7 +13,7 @@ B you find that your gas level becomes negative, it means that every station fro
 While looping through the stations, also keep track of the total gas obtained (total_gas += gas[i] - cost[i]).
 At the end of the loop, if total_gas is greater than or equal to 0, return s_index as the starting index; otherwise, return -1 indicating that it's not possible to complete the circuit.
 Complexity
-Time complexity:
+# Time complexity:
 The time complexity would be O(n) , where n is total number of gas stations and cost
 # Code
 class Solution:
