@@ -1,3 +1,5 @@
+# read the above description for understanding(click on main)
+#code
 class Solution:
     def minCost(self, colors: str, neededTime: List[int]) -> int:
         time=0
