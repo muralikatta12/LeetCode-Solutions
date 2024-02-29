@@ -1,4 +1,4 @@
-# read the above description for understanding(click on main)
+# read the above description for understanding(click on [....])
 #code
 class Solution:
     def minCost(self, colors: str, neededTime: List[int]) -> int:
